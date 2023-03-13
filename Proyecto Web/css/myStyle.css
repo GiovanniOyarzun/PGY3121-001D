@@ -1,0 +1,19 @@
+h3{
+    color: aqua;
+    text-align: center;
+}
+
+#encabezado{
+    color: greenyellow;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.encabezadoClass{
+    color:cornflowerblue;
+    text-align: center;
+}
+
+li,ul{
+    color: rosybrown
+}
